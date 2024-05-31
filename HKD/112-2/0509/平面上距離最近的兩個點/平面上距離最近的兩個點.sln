@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "平面上距離最近的兩個點", "平面上距離最近的兩個點.csproj", "{84A79060-9BFB-446B-9E6E-DC46D6A84805}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84A79060-9BFB-446B-9E6E-DC46D6A84805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84A79060-9BFB-446B-9E6E-DC46D6A84805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84A79060-9BFB-446B-9E6E-DC46D6A84805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84A79060-9BFB-446B-9E6E-DC46D6A84805}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {437D18A7-CF9C-4673-8145-73504E1AD8BE}
+	EndGlobalSection
+EndGlobal

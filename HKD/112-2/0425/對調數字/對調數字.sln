@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "對調數字", "對調數字.csproj", "{E5C20FDB-6F04-4371-A225-3585C774BAFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5C20FDB-6F04-4371-A225-3585C774BAFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5C20FDB-6F04-4371-A225-3585C774BAFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5C20FDB-6F04-4371-A225-3585C774BAFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5C20FDB-6F04-4371-A225-3585C774BAFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC02F518-995D-4558-89BB-F4879C57C507}
+	EndGlobalSection
+EndGlobal

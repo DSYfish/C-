@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "計數排序法", "計數排序法.csproj", "{4FFFA60A-F1F4-46F7-B267-59C2AD301E9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FFFA60A-F1F4-46F7-B267-59C2AD301E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FFFA60A-F1F4-46F7-B267-59C2AD301E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FFFA60A-F1F4-46F7-B267-59C2AD301E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FFFA60A-F1F4-46F7-B267-59C2AD301E9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED4A0051-D0DD-4B2A-ABB2-FD5399FD4331}
+	EndGlobalSection
+EndGlobal

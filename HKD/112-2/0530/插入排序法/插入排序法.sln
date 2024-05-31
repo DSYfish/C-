@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "插入排序法", "插入排序法.csproj", "{255D4B82-93C1-4922-95E1-6631EFD12E07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{255D4B82-93C1-4922-95E1-6631EFD12E07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{255D4B82-93C1-4922-95E1-6631EFD12E07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{255D4B82-93C1-4922-95E1-6631EFD12E07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{255D4B82-93C1-4922-95E1-6631EFD12E07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCD77CF6-9BB3-471A-9E0A-7DC9CA8310B2}
+	EndGlobalSection
+EndGlobal
